@@ -1939,72 +1939,73 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/silhouette-4-425x402.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/victorien-1-600x1067.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://uclouvain.be/fr/repertoires/sebastien.quittelier",
-              "alt": "Sébastien Quittelier (photo)",
-              "title": "Sébastien Quittelier"
+              "link": "https://www.openhub.be/",
+              "alt": "Victorien Sonneville (photo)",
+              "title": "Victorien Sonneville",
+              "linkInNewWindow": true
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/draelandts-400x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/silhouette-5-425x402.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://uclouvain.be/fr/repertoires/hugues.draelants",
-              "alt": "Hugues Draelants (photo)",
-              "title": "Hugues Draelants",
+              "link": "https://www.openhub.be/",
+              "alt": "Quentin d'Aspremont Lynden (photo)",
+              "title": "Quentin d'Aspremont Lynden",
               "linkInNewWindow": true
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sarah-600x337.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/isabelle-motte-400x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://uclouvain.be/fr/repertoires/sarah.sepulchre",
-              "alt": "Sarah Sepulchre (photo)",
-              "title": "Sarah Sepulchre",
+              "link": "https://mediatice.uclouvain.be/",
+              "alt": "Isabelle Motte (photo)",
+              "title": "Isabelle Motte",
               "linkInNewWindow": true
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jungers-600x419.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/silhouette-6-425x402.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://perso.uclouvain.be/raphael.jungers/content/home",
-              "alt": "Raphaël Jungers (photo)",
-              "title": "Raphaël Jungers",
+              "link": "https://uclouvain.be/fr/repertoires/pascal.vangrunderbeeck",
+              "alt": "Pascal Vangrunderbeeck (photo)",
+              "title": "Pascal Vangrunderbeeck",
               "linkInNewWindow": true
             }
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alain-strowel-600x395.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/emilie-400x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://uclouvain.academia.edu/alainstrowel",
-              "alt": "Alain Strowel (photo)",
-              "title": "Alain Strowel",
+              "link": "https://uclouvain.be/fr/repertoires/emilie.malcourant",
+              "alt": "Emilie Malcourant (photo)",
+              "title": "Emilie Malcourant",
               "linkInNewWindow": true
             }
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/denis-philippe-500x500.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/nahon-sebastien-600x450.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://philippelaw.eu/fr/avocat/denis-philippe/",
-              "alt": "Denis Philippe (photo)",
-              "title": "Denis Philippe",
+              "link": "https://www.miil.be/",
+              "alt": "Sébastien Nahon (photo)",
+              "title": "Sébastien Nahon",
               "linkInNewWindow": true
             }
           },
